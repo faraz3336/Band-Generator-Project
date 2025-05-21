@@ -11,7 +11,7 @@ A simple Node.js and Express web app that generates creative band names by combi
 
 ## Demo
 
-![Demo Screenshot](./demo-screenshot.png)  
+![Demo Screenshot](./Band-Generator-Project.png)  
 *(Replace with your actual screenshot if available)*
 
 ## Getting Started
